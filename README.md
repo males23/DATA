@@ -1,4 +1,4 @@
-# DATA
+# DATA ANALYSE
 PROJET - Analyse de vente d'une société ou boutique de smartphone ou de gadget informatique afin de répondre aux questions Business
 
 Données à ma disposition : Données mensuelles de vente. 
