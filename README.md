@@ -8,7 +8,7 @@ Données à disposition : Données mensuelles de vente 2019.
 
 Cahier de charge - Questions du client: 
 
-1-Quel mois a t`on le meilleur CA ?
+1-Quel mois a t'on le meilleur CA ?
 
 2-Dans Quelle ville on a le max de commandes ?
 
