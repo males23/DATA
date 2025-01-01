@@ -16,3 +16,4 @@ Cahier de charge - Questions du client:
 
 4-Quel produit se vend le plus et pourquoi ?
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/males23/DATA/HEAD)
