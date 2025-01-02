@@ -1,4 +1,4 @@
-# DATA ANALYSE
+# ANALYSE DES VENTES
 
 PROJET 2 - Analyse de vente d'une société ou boutique de smartphones & gadgets informatiques, afin de répondre aux questions Business
 
